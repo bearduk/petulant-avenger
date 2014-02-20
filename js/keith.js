@@ -37,8 +37,6 @@ $(this).remove();
 				// $('#lilSq').removeClass('flip');
 				// 
 				
-_gaq.push(['_trackEvent', 'Special', 'Special_global', 'Keith squirrel go!']);
-
 };
 easter_egg.load();
 });
